@@ -76,5 +76,5 @@ Click on the pen icon to edit underneath the block of text type:
 
 `[ ]` = alternate text for the image
 
-![GH 19](images/git_4.mp4)
-![GH 20](images/git_5.mp4)
+![GH 19](images/git_4.gif)
+![GH 20](images/git_5.git)

@@ -80,7 +80,9 @@ Click on the pen icon to edit underneath the block of text type:
 
 ![GH 19](images/git_4.gif)
 
-![GH 20](images/git_5.git)
+
+
+![GH 20](images/git_5.gif)
 
 ## HTML Bootstrap Template
 

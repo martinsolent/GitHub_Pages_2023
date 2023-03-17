@@ -1,5 +1,7 @@
 # GitHub Pages
 
+This is a basic introduction to using GitHub in its basic form and creating GitHub Pages. Normally web developers would use the Commandline (CL) to push and pull changes to a remote server.
+
 You can create GitHub pages which work as websites. To set up a GitHub Page you will need to register on [GitHub](https://github.com/) which is free.
 
 From the overview page click on Repositories
@@ -60,15 +62,15 @@ Change none...
 
 Click on the main site title to return to the main repository. Click on settings, click on pages from the last panel to discover the URL (web address of your site)
 
-![GH 16](images/git_1.mp4)
+![GH 16](images/git_1.gif)
 
-Go back to the main repository by clicking on the repository name, 
+Go back to the main repository by clicking on the repository name. In the about section top left click on the cog and add a description. Then check use get on pages website this will populate the field with the URL of your GitHub page Save changes.
 
-![GH 17](images/git_2.mp4)
+![GH 17](images/git_2.gif)
 
-We now will add an image, here we have it on the desktop, we will drag and drop it to the repository page in the browser and it will add the file. We will add the commit name as add car image and click the Commit Changes button
+We now will add an image, here we have it on the desktop, we will drag and drop it to the repository page in the browser and it will add the file. We will add the commit name as add car image and click the Commit Changes button.
 
-![GH 18](images/git_3.mp4)
+![GH 18](images/git_3.gif)
 
 Click on the pen icon to edit underneath the block of text type:
 
@@ -77,4 +79,18 @@ Click on the pen icon to edit underneath the block of text type:
 `[ ]` = alternate text for the image
 
 ![GH 19](images/git_4.gif)
+
 ![GH 20](images/git_5.git)
+
+## HTML Bootstrap Template
+
+Now try this with a FREE HTML Bootstrap Template:[startbootstrap.com](https://startbootstrap.com/)
+
+1. Download and unzip 
+1. Create a new GitHub Rep
+1. Drag drop files and Commit Changes
+1. Create a GitHub Page
+
+You can now edit and update html and CSS files
+
+

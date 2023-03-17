@@ -76,7 +76,7 @@ Click on the pen icon to edit underneath the block of text type:
 
 `![Image of car](car.jpg)`
 
-`[ ]` = alternate text for the image
+`[ ]` = alternate text for the image and `( )` is the path/name to the image
 
 ![GH 19](images/git_4.gif)
 

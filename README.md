@@ -76,11 +76,13 @@ Click on the pen icon to edit underneath the block of text type:
 
 `![Image of car](car.jpg)`
 
-`[ ]` = alternate text for the image and `( )` is the path/name to the image
+`[ ]` = alternate text for the image
+
+Commit Changes
 
 ![GH 19](images/git_4.gif)
 
-
+You can check Actions to see how your page is being Built and Deployed, this may take some time, but you will give you an indication of its progress. Then go to the main repo by clicking on its title, then you can click the URL to check in the About section to your GitHub Page - it will be fully responsive.
 
 ![GH 20](images/git_5.gif)
 
